@@ -1,0 +1,12 @@
+D:\CSLT2\QLKS\QLKS\bin\Debug\QLKS.exe.config
+D:\CSLT2\QLKS\QLKS\bin\Debug\QLKS.exe
+D:\CSLT2\QLKS\QLKS\bin\Debug\QLKS.pdb
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.csprojResolveAssemblyReference.cache
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.Forms.AddPhong.resources
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.Forms.Phong.resources
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.Forms.UpdatePhong.resources
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.Properties.Resources.resources
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.csproj.GenerateResource.Cache
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.exe
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.pdb
+D:\CSLT2\QLKS\QLKS\obj\Debug\QLKS.Form1.resources
